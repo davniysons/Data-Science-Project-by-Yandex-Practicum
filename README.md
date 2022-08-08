@@ -8,6 +8,8 @@ This repository contains my projects from the "Data Science Specialist" training
      - "Big city music by Yandex.Music"
   -  Data Processing - Project_02 
      - "Borrower Reliability Research"
+  - Exploratory data analysis = Project_03
+     - "Yandex.Apartments"
 
 ## Project_01
   - ### Basic Python - "Big city music by Yandex.Music"
@@ -19,3 +21,7 @@ Based on Yandex.Music data, we will compare the behavior of users in the two cap
 ## Project_02
   - ### Data Processing  - "Borrower Reliability Research"
 The customer is the bank's credit department. It is necessary to find out, whether family status and number of children of the client influence on the fact of loan repayment in due time. Input data from the bank - statistics on clients' solvency. The results of the research will be taken into account when building a credit scoring model - a special system that evaluates the ability of a potential borrower to repay a loan to the bank.
+
+## Project_03
+  - ### Exploratory data analysis - "Yandex.Apartments"
+At your disposal is the data of the service Yandex. Apartments for sale in Saint-Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. Your task is to set the parameters. This will build an automated system: it will track anomalies and fraudulent activity.
