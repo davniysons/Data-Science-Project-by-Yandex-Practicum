@@ -8,7 +8,7 @@ This repository contains my projects from the "Data Science Specialist" training
      - "Big city music by Yandex.Music"
   -  Data Processing - Project_02 
      - "Borrower Reliability Research"
-  - Exploratory data analysis = Project_03
+  - Exploratory data analysis - Project_03
      - "Yandex.Apartments"
 
 ## Project_01
