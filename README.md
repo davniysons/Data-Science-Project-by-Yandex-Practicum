@@ -10,7 +10,9 @@ This repository contains my projects from the "Data Science Specialist" training
      - "Borrower Reliability Research"
   - Exploratory data analysis - Project_03
      - "Yandex.Apartments"
-
+  - Statistical analysis of data - Project_04
+     - "Megaline tariffs"
+  
 ## Project_01
   - ### Basic Python - "Big city music by Yandex.Music"
 Comparison of Moscow and St. Petersburg is surrounded by myths. For example:
@@ -25,3 +27,7 @@ The customer is the bank's credit department. It is necessary to find out, wheth
 ## Project_03
   - ### Exploratory data analysis - "Yandex.Apartments"
 At your disposal is the data of the service Yandex. Apartments for sale in Saint-Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. Your task is to set the parameters. This will build an automated system: it will track anomalies and fraudulent activity.
+
+## Project_04
+  - ### Statistical analysis of data - "Megaline tariffs"
+You are an analyst of Megaline, a federal mobile operator. The clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings more money.
