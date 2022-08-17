@@ -12,6 +12,8 @@ This repository contains my projects from the "Data Science Specialist" training
      - "Yandex.Apartments"
   - Statistical analysis of data - Project_04
      - "Megaline tariffs"
+  - Common Project - Project_05
+     - "Advertising company of an online store"
   
 ## Project_01
   - ### Basic Python - "Big city music by Yandex.Music"
@@ -31,3 +33,8 @@ At your disposal is the data of the service Yandex. Apartments for sale in Saint
 ## Project_04
   - ### Statistical analysis of data - "Megaline tariffs"
 You are an analyst of Megaline, a federal mobile operator. The clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings more money.
+
+## Project_05
+  - ### Common Project - "Advertising company of an online store"
+You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
+
