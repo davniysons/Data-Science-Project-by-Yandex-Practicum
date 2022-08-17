@@ -14,6 +14,8 @@ This repository contains my projects from the "Data Science Specialist" training
      - "Megaline tariffs"
   - Common Project - Project_05
      - "Advertising company of an online store"
+  - Introduction to machine learning - Project_06
+     - "Tariff recommendation"
   
 ## Project_01
   - ### Basic Python - "Big city music by Yandex.Music"
@@ -37,4 +39,8 @@ You are an analyst of Megaline, a federal mobile operator. The clients are offer
 ## Project_05
   - ### Common Project - "Advertising company of an online store"
 You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
+
+## Project_06
+  - ### Introduction to machine learning - "Tariff recommendation"
+Mobile operator "Megaline" found out: many customers use archive tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".
 
